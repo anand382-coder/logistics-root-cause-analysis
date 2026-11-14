@@ -1,0 +1,7 @@
+Hypothesis,Test,Statistic,P_Value,Conclusion
+H1: Route-related delay differences exist,Welch t-test (two illustrative routes),-1.3849479600437442,0.16614486741421847,Insufficient evidence of difference
+H2: Selected vehicle group has different delay,Welch t-test,2.6335383821022895,0.008468108582743253,Evidence of difference
+H3: Longer warehouse processing is associated with delay,Welch t-test,21.396846130716085,8.118320575999775e-100,Evidence of difference
+H4: On-time delivery differs by hub,Chi-square test,10.415905694824193,0.49340909783201825,Insufficient evidence of association
+H5: On-time delivery differs by product type,Chi-square test,0.7149706242401483,0.6994329720547935,Insufficient evidence of association
+H6: On-time delivery differs by customer segment,Chi-square test,1.1757791899924301,0.7588191296352094,Insufficient evidence of association
